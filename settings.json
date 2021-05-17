@@ -1,0 +1,21 @@
+{
+  "Mo": {
+    "guildId": "424911215714631690",
+    "prefix": "!",
+    "adminRoles": ["425225020382642176", "497406496108183553", "1234"],
+    "logChannel": "718176504437276682",
+    "guildLogs": false,
+    "deletedMessages": false,
+    "status": "dnd",
+    "activity": {
+      "name": "Dungeon Master",
+      "type": "PLAYING",
+      "url": "https://discord.com"
+    },
+    "rrScheduler": true,
+    "rrRolesFunction": false,
+    "rrMessageId": "",
+    "roles": {},
+    "muteRole": ""
+  }
+}
